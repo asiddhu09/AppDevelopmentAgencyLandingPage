@@ -24,10 +24,10 @@ Step 3: Extract it and open that folder in code editor ( Recommended VSCode )
  >>and Then Contact us page which contain a form and Submit button. 
 
  Tech stack used :
- HTML
- CSS
- JavaScript
- Bootstrap
- Google fonts for Font
- Unspash for Images
+1. HTML
+2. CSS
+3. JavaScript
+4. Bootstrap
+5. Google fonts for Font
+6. Unspash for Images
  
