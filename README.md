@@ -17,11 +17,11 @@ Step 3: Extract it and open that folder in code editor ( Recommended VSCode )
  This is a Landing page for a App development agency
 
  Overview: 
- >>NavBar on the Top
- >>Then hero section contains a button and some text about our work
- >>Then service section that shows our services
- >>Then Clients section which shows list of clients using their respective logo
- >>Then Contact us page which contain a form and Submit button. 
+ >>NavBar on the Top....
+ >>  hero section contains a button and some text about our work...
+ >>next is service section that shows our services...
+ >next is Clients section which shows list of clients using their respective logo...
+ >>and Then Contact us page which contain a form and Submit button. 
 
  Tech stack used :
  HTML
