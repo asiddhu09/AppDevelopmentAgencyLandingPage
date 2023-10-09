@@ -7,7 +7,7 @@ You can use this link ( Deployed link ) : https://asiddhu09.github.io/AppDevelop
 **or wants to see code**
 
 step 1: Goto Repository named as "AppDevelopmentAgencyLandingPage"
-step 2: Goto Code button > Downlaod Zip file
+step 2: Goto Code button > Downlaod Zip file ( Code is in Master branch )
 Step 3: Extract it and open that folder in code editor ( Recommended VSCode )
  ------------ Here you Go -----
 
